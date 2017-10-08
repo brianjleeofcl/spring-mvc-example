@@ -4,6 +4,8 @@
     <bytecodeTargetLevel>
       <module name="servlet-jsp-part2_main" target="1.8" />
       <module name="servlet-jsp-part2_test" target="1.8" />
+      <module name="spring-example_main" target="1.8" />
+      <module name="spring-example_test" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>

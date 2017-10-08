@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/servlet-jsp-part2.iml" filepath="$PROJECT_DIR$/.idea/modules/servlet-jsp-part2.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/servlet-jsp-part2_main.iml" filepath="$PROJECT_DIR$/.idea/modules/servlet-jsp-part2_main.iml" group="servlet-jsp-part2" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/servlet-jsp-part2_test.iml" filepath="$PROJECT_DIR$/.idea/modules/servlet-jsp-part2_test.iml" group="servlet-jsp-part2" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/spring-example.iml" filepath="$PROJECT_DIR$/.idea/modules/spring-example.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/spring-example_main.iml" filepath="$PROJECT_DIR$/.idea/modules/spring-example_main.iml" group="spring-example" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/spring-example_test.iml" filepath="$PROJECT_DIR$/.idea/modules/spring-example_test.iml" group="spring-example" />
     </modules>
   </component>
 </project>

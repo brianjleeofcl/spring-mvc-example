@@ -1,11 +1,11 @@
 <component name="ArtifactManager">
-  <artifact type="war" name="Gradle : servlet-jsp-part2.war">
+  <artifact type="war" name="Gradle : spring-example.war">
     <output-path>$PROJECT_DIR$/build/libs</output-path>
     <properties id="gradle-properties">
       <options external-project-path="$PROJECT_DIR$" />
     </properties>
-    <root id="archive" name="servlet-jsp-part2.war">
-      <element id="artifact" artifact-name="Gradle : servlet-jsp-part2.war (exploded)" />
+    <root id="archive" name="spring-example.war">
+      <element id="artifact" artifact-name="Gradle : spring-example.war (exploded)" />
     </root>
   </artifact>
 </component>

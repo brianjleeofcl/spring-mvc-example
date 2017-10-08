@@ -15,4 +15,4 @@ include 'api'
 include 'services:webservice'
 */
 
-rootProject.name = 'servlet-jsp-part2'
+rootProject.name = 'spring-example'
